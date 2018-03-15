@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "samplejson"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "samplexml"
+        }
+    },
+    "id": "bb07189c-45ab-4fd5-aa73-f566f8dd83ef",
+    "version": "5.2.0.0"
+}

@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "samplexml"
+        }
+    },
+    "id": "f3cab12f-292f-4e02-97bd-8d2e0b837ec5",
+    "version": "5.2.0.0"
+}
